@@ -43,12 +43,11 @@ The website is fully **responsive**, ensuring a seamless experience across all d
 /portfolio-website  
 │-- assets/  
 │   ├── Resume.pdf         # Resume file  
-│   ├── images/            # Project images, logos, and profile picture  
-│   └── icons/             # SVG icons for social media  
-│  
+│-- images/                # Project images
 │-- index.html             # Main website file  
 │-- project.html           # Dedicated project page  
-│-- styles.css             # Styling for the entire website  
+│-- styles.css             # Styling for the index.html
+│-- styles_project.css     # Styling for the project.html 
 │-- script.js              # JavaScript file for interactive features  
 │  
 └── README.md              # Documentation file  
