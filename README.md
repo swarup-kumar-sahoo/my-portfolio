@@ -2,7 +2,10 @@
 
 # 🚀 **Portfolio Website**  
 
-Welcome to my personal portfolio website! This project showcases my skills, projects, experience, and educational background in an engaging and responsive manner.  
+Welcome to my personal portfolio website! This project showcases my skills, projects, experience, and educational background in an engaging and responsive manner. 
+
+![p8](https://github.com/user-attachments/assets/c1d285c8-bc56-4e9e-b47f-a423b687695a)
+
 
 ---
 
