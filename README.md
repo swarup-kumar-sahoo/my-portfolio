@@ -4,9 +4,6 @@
 
 Welcome to my personal portfolio website! This project showcases my skills, projects, experience, and educational background in an engaging and responsive manner. 
 
-![p8](https://github.com/user-attachments/assets/c1d285c8-bc56-4e9e-b47f-a423b687695a)
-
-
 ---
 
 ## 🌟 **About the Project**  
@@ -61,7 +58,7 @@ The website is fully **responsive**, ensuring a seamless experience across all d
 ## 📸 **Live Demo**  
 
 Check out the live version of my portfolio here:  
-[**Live Demo Link**](#) *(Add your live hosting link here)*  
+[**Live Demo Link**](https://swarupkumarsahoo.netlify.app/) *(Add your live hosting link here)*  
 
 ---
 
@@ -83,9 +80,9 @@ Check out the live version of my portfolio here:
 ## 🔗 **Connect With Me**  
 
 - **📧 Email**: kumarswarup7272@gmail.com  
-- **🔗 LinkedIn**: [LinkedIn Profile](#)  
-- **🐱 GitHub**: [GitHub Profile](#)  
-- **💼 Portfolio**: [Portfolio Website](#) *(if hosted online)*  
+- **🔗 LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/swarup-kumar-sahoo-2460b3242?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- **🐱 GitHub**: [GitHub Profile](https://github.com/swarup-kumar-sahoo/)  
+- **💼 Portfolio**: [Portfolio Website](https://swarupkumarsahoo.netlify.app/) 
 
 ---
 
