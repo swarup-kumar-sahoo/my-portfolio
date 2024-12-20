@@ -79,7 +79,7 @@ Check out the live version of my portfolio here:
 
 ## 🔗 **Connect With Me**  
 
-- **📧 Email**: your-email@example.com  
+- **📧 Email**: kumarswarup7272@gmail.com  
 - **🔗 LinkedIn**: [LinkedIn Profile](#)  
 - **🐱 GitHub**: [GitHub Profile](#)  
 - **💼 Portfolio**: [Portfolio Website](#) *(if hosted online)*  
