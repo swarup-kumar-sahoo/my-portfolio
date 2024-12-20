@@ -4,6 +4,12 @@
 
 Welcome to my personal portfolio website! This project showcases my skills, projects, experience, and educational background in an engaging and responsive manner. 
 
+## 📸 **Live Demo**  
+
+Check out the live version of my portfolio here:  
+[**Live Demo Link**](https://swarup.tech/)  
+
+---
 ---
 
 ## 🌟 **About the Project**  
@@ -55,13 +61,6 @@ The website is fully **responsive**, ensuring a seamless experience across all d
 
 ---
 
-## 📸 **Live Demo**  
-
-Check out the live version of my portfolio here:  
-[**Live Demo Link**](https://swarupkumarsahoo.netlify.app/) *(Add your live hosting link here)*  
-
----
-
 ## 🚀 **How to Use**  
 
 1. Clone this repository:  
@@ -82,7 +81,7 @@ Check out the live version of my portfolio here:
 - **📧 Email**: kumarswarup7272@gmail.com  
 - **🔗 LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/swarup-kumar-sahoo-2460b3242?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 - **🐱 GitHub**: [GitHub Profile](https://github.com/swarup-kumar-sahoo/)  
-- **💼 Portfolio**: [Portfolio Website](https://swarupkumarsahoo.netlify.app/) 
+- **💼 Portfolio**: [Portfolio Website](https://swarup.tech/) 
 
 ---
 
