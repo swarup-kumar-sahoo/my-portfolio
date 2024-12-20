@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Projects</title>
+    <link rel="stylesheet" href="styles_project.css">
+</head>
+<body>
+    <!-- Navbar -->
+    <nav class="navbar">
+        <div class="logo"><a href="index.html">Swarup</a></div>
+        <div class="hamburger" id="hamburger">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+        <ul class="nav-links" id="nav-links">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="index.html">Education</a></li>
+            <li><a href="index.html">Experience</a></li>
+            <li><a href="index.html">Projects</a></li>
+            <li><a href="index.html">Contact</a></li>
+        </ul>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="hero-section">
+        <h1>Explore My Projects</h1>
+        <p>Browse through my collection of projects built with different technologies.</p>
+    </section>
+
+    <!-- Search & Filter -->
+    <section class="search-filter">
+        <input 
+            type="text" 
+            id="searchBar" 
+            placeholder="Search for a project..." 
+            onkeyup="searchProjects()"
+        >
+
+        <!-- Filter Buttons -->
+        <div class="filter-buttons">
+            <button class="filter-btn active" onclick="filterProjects('all')">All</button>
+            <button class="filter-btn" onclick="filterProjects('ML')">ML</button>
+            <button class="filter-btn" onclick="filterProjects('Java')">Java</button>
+            <button class="filter-btn" onclick="filterProjects('Python')">Python</button>
+            <button class="filter-btn" onclick="filterProjects('Android')">Android</button>
+            <button class="filter-btn" onclick="filterProjects('HTML')">HTML</button>
+            <button class="filter-btn" onclick="filterProjects('MERN')">MERN</button>
+
+
+        </div>
+    </section>
+
+    <section id="projects" class="projects-container">
+
+
+        <!-- Project 7 -->
+        <div class="project-card" data-category="ML" data-title="Customer Segmentation">
+            <img src="/img/p7.png" alt="Project Image" class="project-image">
+            <h3>Customer Segmentation using K-Means Clustering</h3>
+            <p>This project applies K-Means Clustering to perform customer segmentation based on annual income and spending score (1-100).</p>
+            <a href="https://github.com/swarup-kumar-sahoo/Customer-Segmentation-using-K-Means-Clustering" target="_blank" class="github-btn">
+                <img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" alt="GitHub" class="github-icon"> View Code
+            </a>
+        </div>
+
+        <!-- Project 6 -->
+        <div class="project-card" data-category="MERN" data-title="Complain Management">
+            <img src="/img/p4.jpg" alt="Project Image" class="project-image">
+            <h3>Complain Management System With MongoDB</h3>
+            <p>This project is a web-based Feedback Management System designed to streamline the process of collecting, organizing, and analyzing user feedback.</p>
+            <a href="https://github.com/username/chat-application" target="_blank" class="github-btn">
+                <img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" alt="GitHub" class="github-icon"> View Code
+            </a>
+        </div>
+
+        <!-- Project 5 -->
+        <div class="project-card" data-category="Java" data-title="University Management">
+            <img src="/img/p1.png" alt="Project Image" class="project-image">
+            <h3>University Management System</h3>
+            <p>This is a University Management System developed using Java AWT AND SWING for the backend and MySQL Workbench as the database.</p>
+            <a href="https://github.com/swarup-kumar-sahoo/university-management-system-using-java-mysql" target="_blank" class="github-btn">
+                <img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" alt="GitHub" class="github-icon"> View Code
+            </a>
+        </div>
+    
+        <!-- Project 4 -->
+        <div class="project-card" data-category="Android" data-title="Android Calculator App">
+            <img src="/img/p3.jpg" alt="Project Image" class="project-image">
+            <h3>Android Calculator App</h3>
+            <p>perform basic arithmetic operations like addition, subtraction, multiplication, or division, this app provides a straightforward solution without any unnecessary features.</p>
+            <a href="https://github.com/swarup-kumar-sahoo/Android-Calculator-App" target="_blank" class="github-btn">
+                <img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" alt="GitHub" class="github-icon"> View Code
+            </a>
+        </div>
+
+        <!-- Project 3 -->
+        <div class="project-card" data-category="MERN" data-title="Ecommerce Dkart Website">
+            <img src="/img/p2.png" alt="Project Image" class="project-image">
+            <h3>Dkart Ecommerce</h3>
+            <p> Dkart is a modern, responsive, and user-friendly e-commerce website, built using React  that offers a wide range of products including fashion, electronics, and more.</p>
+            <a href="https://github.com/swarup-kumar-sahoo/Dkart-Ecommerce-Website" target="_blank" class="github-btn">
+                <img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" alt="GitHub" class="github-icon"> View Code
+            </a>
+        </div>
+
+        <!-- Project 2 -->
+        <div class="project-card" data-category="Python" data-title="Web Google Search Bot">
+            <img src="/img/p6.png" alt="Project Image" class="project-image">
+            <h3>Web Search Bot</h3>
+            <p>Google Search Bot is a Telegram bot project that searches from the Web. It crawls search results from Google and passes the first 50 results to the Telegram bot as InlineQueryResult.</p>
+            <a href="https://github.com/swarup-kumar-sahoo/web-search-bot" target="_blank" class="github-btn">
+                <img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" alt="GitHub" class="github-icon"> View Code
+            </a>
+        </div>
+
+         <!-- Project 1 -->
+         <div class="project-card" data-category="Python" data-title="Jarvis ai">
+            <img src="/img/p5.png" alt="Project Image" class="project-image">
+            <h3>Jarvis AI</h3>
+            <p>This is a voice assistant ai model who can perform several task like web searching , sending emails , opening social media, etc.</p>
+            <a href="https://github.com/swarup-kumar-sahoo/jarvis-ai" target="_blank" class="github-btn">
+                <img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" alt="GitHub" class="github-icon"> View Code
+            </a>
+        </div>
+
+        <!-- Project  -->
+        <div class="project-card" data-category="HTML" data-title="Portfolio Website">
+            <img src="/img/p8.png" alt="Project Image" class="project-image">
+            <h3>Portfolio Website</h3>
+            <p>This is my personal portfolio website.  This project showcases my skills, projects, experience, and educational background in an engaging and responsive manner.</p>
+            <a href="https://github.com/swarup-kumar-sahoo/my-portfolio" target="_blank" class="github-btn">
+                <img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" alt="GitHub" class="github-icon"> View Code
+            </a>
+        </div>
+
+
+
+
+
+    </section>
+    
+
+    <script src="script.js"></script>
+</body>
+</html>

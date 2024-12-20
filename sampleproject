@@ -1,0 +1,9 @@
+ <!-- Project  -->
+        <div class="project-card" data-category="" data-title="">
+            <img src="" alt="Project Image" class="project-image">
+            <h3></h3>
+            <p></p>
+            <a href="" target="_blank" class="github-btn">
+                <img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" alt="GitHub" class="github-icon"> View Code
+            </a>
+        </div>
