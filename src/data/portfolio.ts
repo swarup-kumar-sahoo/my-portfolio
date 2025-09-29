@@ -17,6 +17,16 @@ export const portfolioData: Portfolio[] = [
     projectUrl: "https://github.com/swarup-kumar-sahoo/jinsafe-application",
     imageUrl:
       "/jinsafe-mobile-app.jpg",
-    codeUrl: "https://github.com/username/project",
+    codeUrl: "",
   },
+  {
+    title: "SiteLens - AI Intelligent ChatBot",
+    description:
+      "SiteLens is a smart, AI-powered chartbot designed to work exclusively with your website’s data.",
+    technologies: ["Next.Js", "Python", "FastAPI", "MongoDB"],
+    projectUrl: "https://github.com/SiteLens-Intelligent-ChartBot",
+    imageUrl:
+      "/Site-lense.png",
+    codeUrl: "",
+  }
 ];

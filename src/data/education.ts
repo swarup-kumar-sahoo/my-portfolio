@@ -23,4 +23,12 @@ export const educationData: Education[] = [
     // Optional links to thesis
     // thesisUrl: "https://dspace.mit.edu/handle/1721.1/149111"
   },
+   {
+    year: "2020",
+    institution: "ST. Xavier's High School",
+    degree: "Secondary education",
+    // thesis: "Physics, Chemistry, Mathmatics & IT",
+    // Optional links to thesis
+    // thesisUrl: "https://dspace.mit.edu/handle/1721.1/149111"
+  },
 ];

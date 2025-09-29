@@ -15,7 +15,7 @@ export const experienceData: Experience[] = [
     company: "Jindal Steel",
     description:
       "Developed safety reporting and management app for Jindal Steel in React Native.",
-    advisor: "Tej Prakash",
+    // advisor: "Tej Prakash",
     companyUrl: "https://deepmind.com",
   },
   // {

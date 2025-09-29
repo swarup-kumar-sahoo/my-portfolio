@@ -23,7 +23,7 @@ export const aboutMe: AboutMe = {
   institution: "Gandhi Institute Of Technological Advancement",
   // Note that links work in the description
   description:
-    "Final-year student at GITA Autonomus Collage. My core expertise lies in React Native for mobile app development, complemented by Java Spring Boot for robust back-end solutions and Power BI for data analytics. I'm also exploring Express.js, Node.js, MongoDB, and MySQL to broaden my full-stack capabilities. Seeking opportunities to leverage my skills in dynamic development environments.",
+  "I am a final-year student at GITA Autonomous College, exploring web, mobile, and AI development. I work with Next.js, React.js, Express.js, MongoDB, Python, Flask, and React Native, while currently learning Spring Boot. My main focus is on building projects and growing my knowledge in Artificial Intelligence.",
   email: "kumarswarup7272@gmail.com",
   imageUrl:
     "/mypicture-swarup.jpg",
