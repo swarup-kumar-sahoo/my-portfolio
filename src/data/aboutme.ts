@@ -23,7 +23,7 @@ export const aboutMe: AboutMe = {
   institution: "Gandhi Institute Of Technological Advancement",
   // Note that links work in the description
   description:
-  "I am a final-year student at GITA Autonomous College, exploring web, mobile, and AI development. I work with Next.js, React.js, Express.js, MongoDB, Python, Flask, and React Native, while currently learning Spring Boot. My main focus is on building projects and growing my knowledge in Artificial Intelligence.",
+  "I am a final-year student at GITA Autonomous College, exploring web, mobile, and AI development. I work with Java Fullstack with SpringBoot, Python, and React Native. My main focus is on building projects and growing my knowledge in Artificial Intelligence.",
   email: "kumarswarup7272@gmail.com",
   imageUrl:
     "/mypicture-swarup.jpg",
@@ -32,7 +32,7 @@ export const aboutMe: AboutMe = {
   twitterUsername: "jarvisbee_",
   blogUrl: "https://x.com/jarvisbee_",
   cvUrl: "https://drive.google.com/file/d/1I9cHRAonJBFOYinqEb9xP-eYQiKFPGMr/view?usp=sharing",
-  institutionUrl: "https://www.stanford.edu",
+  //institutionUrl: "https://www.stanford.edu",
   // altName: "",
   // secretDescription: "I like dogs.",
 };

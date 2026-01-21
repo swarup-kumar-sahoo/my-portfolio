@@ -8,9 +8,8 @@ export interface Education {
 }
 
 export const educationData: Education[] = [
-  // If you don't want to show education, just make the array empty.
   {
-    year: "2022—Present",
+    year: "2022—2026",
     institution: "Gandhi Institute Of Technological Advancement",
     degree: "BTech. in Computer Science",
     advisor: "Operating System, Java, DBMS, etc.",
